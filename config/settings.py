@@ -44,6 +44,7 @@ ALLOWED_HOSTS = ["*"]
 # Application definition
 
 INSTALLED_APPS = [
+    # pip install channels==3.0.4, channels_redis==4.0.0
     'channels',
 
     # app
